@@ -26,8 +26,11 @@ python3 /path/to/NAP/neutralizing_prediction.py parameters
 #########################Parameters#########################
 
 -h           show help information
+
 -p           specify the path to the location of the folder "NAP"
+
 -i           specify the input file
+
 -o           specify the output file
 
 ##########################Example###########################
