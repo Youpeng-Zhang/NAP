@@ -4,7 +4,6 @@ NAP is a neutralizing antibody prediction algorithm for COVID-19 based on dipept
 ############################################################
 ########################Preparation#########################
 ############################################################
-
 Please make the following preparations before using:
 
 1. Install Python3 and add it to the global variable
