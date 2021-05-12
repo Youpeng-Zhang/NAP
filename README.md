@@ -4,6 +4,7 @@ NAP is a neutralizing antibody prediction algorithm for COVID-19 based on dipept
 ############################################################
 ########################Preparation#########################
 ############################################################
+
 Please make the following preparations before using:
 
 1. Install Python3 and add it to the global variable
@@ -12,7 +13,7 @@ Please make the following preparations before using:
 2. Install the required packages for python from the command line
    pip3 install sklearn
 
-3.Prepare your input file in the format of example_input.fasta at the folder "NAP"
+3. Prepare your input file in the format of example_input.fasta at the folder "NAP"
 
 ############################################################
 #########################Prediction#########################
