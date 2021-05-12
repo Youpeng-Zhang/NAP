@@ -1,0 +1,4 @@
+#score>0.5 represents neutralizing
+ID	CDRH1	CDRH2	CDRH3	score	neutralizing
+> 1	SNYMS	VIYSGGSTYYADSVKG	ARVEWAAAGTFY	0.907	neutralizing
+> 2	TSGVGVG	LIYWNDDKRYSPSLKS	AHSGPPDLSPVLSQGWFD	0.448	non-neutralizing
