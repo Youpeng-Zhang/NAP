@@ -8,7 +8,7 @@ NAP is a neutralizing antibody prediction algorithm for COVID-19 based on dipept
 Please make the following preparations before using:
 
 1. Install Python3 and add it to the global variable
-   You can get the latest release version of Python3 at  at https://www.python.org
+   You can get the latest release version of Python3 at https://www.python.org
 
 2. Install the required packages for python from the command line
    pip3 install sklearn
